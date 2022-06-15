@@ -1,3 +1,14 @@
-Arapahoe
-Denver
-Jefferson
+
+Election Results
+-----------------------
+Total votes: 369,711
+-----------------------
+Charles Casper Stockham: received 23.0% or (85,213).
+Diana DeGette: received 73.8% or (272,892).
+Raymon Anthony Doane: received 3.1% or (11,606).
+-------------------------
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Total votes: 369,711
+Winning Percentage: 73.8%
+--------------------------
