@@ -33,8 +33,13 @@ This challenge requested an additional 3 pieces of information about the electio
 
 ## Results
 -- There were 369,711 total votes cast in the election.
--- Jefferson County had 38,855 votes or 10.5% of the grand total; Arapahoe County had 24,801 votes or 6.7% of the grand total; and Denver County had 306,055 votes or 82.8% of the grand total.
+
+-- Jefferson County had 38,855 votes or 10.5% of the grand total; Arapahoe County had 24,801 votes or 6.7% of the grand total; and Denver County had 306,055 votes or 82.8% of the grand total. 
+
 -- Denver County had, by far, the largest vote turnout.
--- Three candidates received votes in the election: Charles Casper Stockham, Diana DeGette and Raymon Anthony Doane. Stockham received 85,213 votes or 23% of the grand total; Doane received 11,606 votes or 3.1% of the grand total; and DeGette received 272,892 votes or 73.8% of the grand total. 
--- DeGette won the election with 73.8% (272,892) of the total vote.  
+
+-- Three candidates received votes in the election: Charles Casper Stockham, Diana DeGette and Raymon Anthony Doane. Stockham received 85,213 votes or 23% of the grand total; Doane received 11,606 votes or 3.1% of the grand total; and DeGette received 272,892 votes or 73.8% of the grand total.
+
+-- DeGette won the election with 73.8% (272,892) of the total vote. 
+
 ## Challenge Summary
